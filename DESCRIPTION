@@ -1,0 +1,15 @@
+Package: SWATHtoMRM
+Type: Package
+Title: SWATHtoMRM
+Version: 1.0.0
+Date: 2017-12-15
+Author: Yandong Yin <yinyandong@sioc.ac.cn>
+Maintainer: Yandong <yinyandong@sioc.ac.cn>
+Description: R package to generate MRM transitions from SWATH-MS data.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.14), xcms, CAMERA
+Depends: Rcpp (>= 0.12.14), xcms, CAMERA
+LinkingTo: Rcpp
+RoxygenNote: 6.0.1
+NeedsCompilation: yes
+Packaged: 2017-12-17 12:32:45 UTC; yinyd
